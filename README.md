@@ -1,5 +1,3 @@
-![Image alt](https://github.com/m4pkep/m4pkep/blob/main/picc.jpg)
-
 sass/scss
 git
 веб-сокеты, dns
